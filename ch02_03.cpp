@@ -17,11 +17,15 @@ int main()
 	
 	
 	
-	cout<<"µu¾ã¼Æ="<<number1<<"©Ò¦û¦ì¤¸²Õ"<<sizeof(number1)<<endl;
-	cout<<"¾ã¼Æ="<<number2<<"©Ò¦û¦ì¤¸²Õ"<<sizeof(number2)<<endl;
-	cout<<"ªø¾ã¼Æ="<<number3<<"©Ò¦û¦ì¤¸²Õ"<<sizeof(number3)<<endl; 
-    cout<<"µL¸¹ªø¾ã¼Æ="<<number4<<"©Ò¦û¦ì¤¸²Õ"<<sizeof(number4)<<endl; 
+	cout<<"çŸ­æ•´æ•¸="<<number1<<"æ‰€ä½”ä½å…ƒçµ„"<<sizeof(number1)<<endl;
+	cout<<"æ•´æ•¸="<<number2<<"æ‰€ä½”ä½å…ƒçµ„"<<sizeof(number2)<<endl;
+	cout<<"é•·æ•´æ•¸="<<number3<<"æ‰€ä½”ä½å…ƒçµ„"<<sizeof(number3)<<endl; 
+    cout<<"ç„¡è™Ÿé•·æ•´æ•¸="<<number4<<"æ‰€ä½”ä½å…ƒçµ„"<<sizeof(number4)<<endl; 
 	
 	return 0;
 }	
 
+//çŸ­æ•´æ•¸=192æ‰€ä½”ä½å…ƒçµ„2
+//æ•´æ•¸=831æ‰€ä½”ä½å…ƒçµ„4
+//é•·æ•´æ•¸=-123456789æ‰€ä½”ä½å…ƒçµ„4
+//ç„¡è™Ÿé•·æ•´æ•¸=978654321æ‰€ä½”ä½å…ƒçµ„4
